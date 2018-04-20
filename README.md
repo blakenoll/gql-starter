@@ -2,7 +2,7 @@
 ---
 
 ### To start dev server
-`npm dev`
+`npm run dev`
 
 or
 
