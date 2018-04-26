@@ -1,6 +1,6 @@
 # GraphQL Boiler plate using apollo-server-express
 
-## setting up
+## Set up
 
 ### To start dev server
 `npm run dev`
