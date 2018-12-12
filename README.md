@@ -1,4 +1,4 @@
-# GraphQL Boiler plate using apollo-server-express
+# GraphQL Boiler plate using Apollo server 2
 
 ## Set up
 
@@ -9,7 +9,7 @@ if using yarn
 
 `yarn dev`
 
-point your browser to localhost:3001 to interact with GraphiQL
+point your browser to localhost:4000 to interact with GraphiQL
 
 To test type 
 `{
