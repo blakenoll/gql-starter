@@ -1,6 +1,6 @@
 {
   "name": "GQL-Starter",
-  "version": "1.0.1",
+  "version": "2.0.0",
   "description": "GraphQL boiler plate for express using apollo-server-express",
   "main": "server.js",
   "dependencies": {
