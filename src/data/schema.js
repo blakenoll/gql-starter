@@ -1,12 +1,11 @@
-import { makeExecutableSchema } from 'graphql-tools';
-import resolvers from './resolvers';
+import { gql } from 'apollo-server';
 
 // define your schema here 
-const typeDefs = `
+const typeDefs = gql`
 type Query {
   testString(text: String): String
-}`;
+}
+`;
 
-const schema = makeExecutableSchema({ typeDefs, resolvers });
 
-export default schema;
+export default typeDefs;
