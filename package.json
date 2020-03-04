@@ -4,7 +4,7 @@
   "description": "GraphQL boiler plate for express using apollo-server-express",
   "main": "server.js",
   "dependencies": {
-    "apollo-server": "^2.7.0",
+    "apollo-server": "^2.11.0",
     "graphql": "^14.4.2"
   },
   "devDependencies": {
